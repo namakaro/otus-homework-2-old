@@ -1,1 +1,3 @@
-# otus-homework-2
+# Консольный калькулятор
+## Домашнее задание по курсу React.js Developer (Otus). Typescript
+
